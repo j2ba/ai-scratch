@@ -14,7 +14,7 @@ This C# project serves as a scratchpad for quickly prototyping and experimenting
 ### Prerequisites
 
 Ensure you have the following installed:
-- .NET 6.0 SDK or later
+- .NET 8.0 SDK or later
 - An IDE like Visual Studio or VSCode
 
 ### Installation
