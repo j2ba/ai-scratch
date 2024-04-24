@@ -1,7 +1,3 @@
-Certainly! Here's a sample README for your C# project based on Microsoft.SemanticKernel for quickly prototyping prompts, agents, copilots, and plugins.
-
----
-
 # AI Prompt Prototyping Tool
 
 This C# project serves as a scratchpad for quickly prototyping and experimenting with AI-driven prompts, agents, copilots, and plugins using the Microsoft.SemanticKernel framework. It includes a simplified framework for executing and testing different conversational intents and responses.
