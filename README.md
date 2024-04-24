@@ -22,7 +22,7 @@ Ensure you have the following installed:
 1. Clone the repository:
    ```
    git clone https://github.com/j2ba/ai-scratch.git
-   cd ai-pad
+   cd ai-scratch
    ```
 
 2. Restore and build the project:
